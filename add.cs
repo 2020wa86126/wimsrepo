@@ -1,1 +1,4 @@
-2+3
+public add(int a,int b)
+{
+  int c = a + b
+  }
